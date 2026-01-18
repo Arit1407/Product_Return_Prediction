@@ -1,0 +1,34 @@
+,0
+"Customer Location_New York, USA",0.0001653211778253727
+"Customer Location_Chicago, USA",0.00016138303157746668
+"Customer Location_Paris, France",0.00011806467617616611
+"Customer Location_London, UK",6.762268791091764e-05
+"Customer Location_Mumbai, India",5.928293990362654e-05
+"Customer Location_Phoenix, USA",5.6544119447110575e-05
+"Customer Location_Cape Town, South Africa",2.6093097914925424e-05
+"Customer Location_Los Angeles, USA",-4.852720741688188e-06
+Seasonality_Yes,-6.400058439615108e-06
+Customer Age Group,-2.181766497937332e-05
+Customer Location_Singapore,-3.1345252484538125e-05
+"Customer Location_Sydney, Australia",-4.015397977061852e-05
+Category_Home Appliances,-4.4999085248420553e-05
+Customer Gender_Non-Binary,-5.6219211186636644e-05
+"Customer Location_Houston, USA",-6.685137000963514e-05
+"Customer Location_Toronto, Canada",-9.636938309234288e-05
+Category_Footwear,-9.972971452993917e-05
+"Customer Location_Tokyo, Japan",-0.00012545630750513404
+"Customer Location_Dubai, UAE",-0.00014612892634300323
+Shipping Method_Overnight,-0.000148626847635569
+Customer Gender_Male,-0.00020812972819190813
+Category_Books,-0.0004183979387825776
+Product Name_TE,-0.0004505190107543022
+Stock Level,-0.000766658709762158
+Category_Electronics,-0.0008201477135191037
+Shipping Method_Standard,-0.0008345291197192406
+Discount,-0.0011254948435658108
+Tax Rate,-0.0014590191626079108
+Popularity Index,-0.0014731099114263734
+Final Price,-0.003156423222275073
+Shipping Cost,-0.005543513332048056
+Price,-0.0068023231597993394
+Shipping_to_Price,-0.007389395093595885
